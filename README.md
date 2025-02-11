@@ -8,7 +8,7 @@ _In anim do duis ullamco._ Lorem ad mollit eu anim exercitation qui ea pariatur 
 
 __Proident quis velit sint__ fugiat eiusmod eiusmod esse. Cupidatat velit nulla ipsum est tempor et sunt nisi incididunt elit ea officia aliquip ad. 
 
-**Tækniskólinn** > https://www.tskoli.is
+**Tækniskólinn** < https://www.tskoli.is
 
 https://tskoli.is/wp-content/uploads/2017/07/Tækniskólinn.Háteigsvegi-1-768x463.jpg
 
